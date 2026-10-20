@@ -1,0 +1,5 @@
+# Build output
+wordfreq
+*.o
+*.exe
+build/
